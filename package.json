@@ -1,0 +1,12 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node test",
+    "variable": "node variable",
+    "saturday": "node saturday",
+    "income": "node income"
+  }
+}
