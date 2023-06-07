@@ -8,7 +8,9 @@
     "variable": "node variable",
     "saturday": "node saturday",
     "income": "node income",
-    "employees": "node employees"
+    "employees": "node employees",
+    "emptyMassive": "tsc emptyMassive  &&  node emptyMassive",
+    "applications": "tsc applications  &&  node applications"
   },
   "devDependencies": {
     "typescript": "^5.1.3"
