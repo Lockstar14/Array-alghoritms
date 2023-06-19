@@ -4,13 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node test",
-    "variable": "node variable",
-    "saturday": "node saturday",
-    "income": "node income",
-    "employees": "node employees",
-    "emptyMassive": "tsc emptyMassive  &&  node emptyMassive",
-    "applications": "tsc applications  &&  node applications"
+    "months": "tsc months && node months",
+    "goods": "tsc goods && node goods",
+    "numbers": "tsc numbers && node numbers"
   },
   "devDependencies": {
     "typescript": "^5.1.3"
